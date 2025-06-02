@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Start Live Server",
+			"type": "shell",
+			"command": "Write-Host 'Starting Live Server... Please click the Go Live button in the status bar or press Alt+L Alt+O'",
+			"group": "build",
+			"problemMatcher": []
+		}
+	]
+}
